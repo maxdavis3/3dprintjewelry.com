@@ -9,7 +9,7 @@ storyText:
   - "3D Print Jewelry is the authoritative resource for jewelry additive manufacturing — covering castable wax printing, direct precious metal SLM, and the CAD workflows that drive both."
   - "We work with independent jewelers, fashion designers, and commercial jewelry manufacturers to bring complex designs to life without the constraints of traditional lost-wax casting."
   - "From a single bespoke engagement ring to a production run of 500 identical pendants — our printing and finishing capabilities scale to the project."
-storyImage: "https://images.unsplash.com/photo-1614595737476-42487331b8a1?w=800&q=80"
+storyImage: "/images/02_dmls_gold.png"
 
 missionCards:
   - icon: "💎"

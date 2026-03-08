@@ -9,7 +9,7 @@ description   = "3D Print Jewelry — custom jewelry 3D printing from CAD concep
 keywords      = "3D printed jewelry, jewelry 3D printing, SLA wax casting, direct metal printing, gold 3D printing, silver printing, lost wax casting, CAD jewelry, precious metal AM"
 logoEmoji     = "💎"
 contactEmail  = "maxdavisgroup@gmail.com"
-ogImage       = "https://images.unsplash.com/photo-1614595737476-42487331b8a1?w=1200&q=80"
+ogImage       = "/images/25_diamond_luxury.png"
 footerServicesLabel = "Services"
 
 colorPrimary      = "#d4af37"
@@ -28,9 +28,9 @@ fontSecondary = "Cormorant+Garamond"
 pubmedQuery        = "additive+manufacturing+jewelry+precious+metal+printing"
 pubmedFallback     = "metal+3D+printing+jewelry"
 newsFallbackImages = [
-  "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80",
-  "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=600&q=80",
-  "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=600&q=80",
+  "/images/02_dmls_gold.png",
+  "/images/07_dlp_detail.png",
+  "/images/18_iteration_series.png",
 ]
 
 heroEyebrow  = "Jewelry Additive Manufacturing"
@@ -40,7 +40,7 @@ heroCta1Text = "Explore Services"
 heroCta1URL  = "/services/"
 heroCta2Text = "Get a Quote"
 heroCta2URL  = "/contact/"
-heroImage    = "https://images.unsplash.com/photo-1614595737476-42487331b8a1?w=1200&q=80"
+heroImage    = "/images/25_diamond_luxury.png"
 
 newsSectionTitle    = "Latest in Precious Metal Printing"
 newsSectionSubtitle = "Research, technology news, and market developments from the jewelry additive manufacturing field."
@@ -49,7 +49,7 @@ overviewLabel   = "Production Options"
 overviewTitle   = "Jewelry Production Materials"
 overviewText    = "Two routes to a finished jewelry piece — wax-and-cast for maximum material choice, or direct metal print for maximum geometric complexity. Both routes start from your CAD file."
 overviewText2   = "Castable resin with zero-ash burnout. 18K yellow, white, and rose gold via direct SLM. Sterling silver 925, fine silver 999, and platinum 950 on specification."
-overviewImage   = "https://images.unsplash.com/photo-1614595737476-42487331b8a1?w=800&q=80"
+overviewImage   = "/images/02_dmls_gold.png"
 overviewBtnText = "View Services"
 overviewBtnURL  = "/services/"
 
@@ -68,7 +68,7 @@ newsletterText  = "New printing techniques, precious metal AM research, and indu
 
 ctaTitle   = "Bring Your Design to Life"
 ctaText    = "From a sketch on paper to a hallmarked piece in precious metal — we handle every step. No minimum order."
-ctaImage   = "https://images.unsplash.com/photo-1573408301185-9519f94a7c2a?w=1200&q=80"
+ctaImage   = "/images/30_bespoke_masterpiece.png"
 ctaBtnText = "Start Your Project"
 ctaBtnURL  = "/contact/"
 
@@ -97,22 +97,22 @@ label  = "Minimum Order"
 [[params.applications]]
 title       = "Engagement & Bridal"
 description = "Bespoke engagement rings and wedding bands with complex stone settings, pavé work, and custom engraving — impossible by hand, perfect by print."
-image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80"
+image       = "/images/21_engagement_ring.png"
 
 [[params.applications]]
 title       = "Fashion & Statement Pieces"
 description = "Architectural forms, interlocking geometries, and lattice structures for contemporary fashion jewelry that pushes beyond traditional casting limits."
-image       = "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&q=80"
+image       = "/images/28_statement_neck.png"
 
 [[params.applications]]
 title       = "Fine & Precious Metal"
 description = "18K gold, platinum, and sterling silver printed directly via SLM. Skip casting entirely for complex hollow forms and internal channel designs."
-image       = "https://images.unsplash.com/photo-1601121141461-9d6647bef0a1?w=800&q=80"
+image       = "/images/13_platinum_link.png"
 
 [[params.applications]]
 title       = "Commercial Production"
 description = "Consistent castable wax patterns at production volumes. Same-geometry repeatability across hundreds of pieces — ideal for collections and catalog runs."
-image       = "https://images.unsplash.com/photo-1692593805406-3ee865740c98?w=800&q=80"
+image       = "/images/29_collection_display.png"
 
 [[params.servicesPreview]]
 icon        = "🕯️"
@@ -138,25 +138,25 @@ description = "From sketch or concept to production-ready file. Parametric desig
 name        = "Castable Wax Models"
 description = "SLA-printed castable resin patterns with zero-ash burnout at 750°C. Exact shrinkage compensation built in. Works with your caster or our in-house casting service."
 icon        = "🕯️"
-image       = "https://images.unsplash.com/photo-1701964619775-b18422290cf9?w=800&q=80"
+image       = "/images/04_lostwax_pattern.png"
 
 [[params.services]]
 name        = "Direct Metal Printing"
 description = "18K yellow, white, and rose gold; sterling silver 925; platinum 950 — printed directly via SLM. Surface finish Ra 3–5µm as-printed, mirror polish on request."
 icon        = "⚙️"
-image       = "https://images.unsplash.com/photo-1652888510609-ed2d2ad64d6b?w=800&q=80"
+image       = "/images/02_dmls_gold.png"
 
 [[params.services]]
 name        = "End-to-End Production"
 description = "Full-service from CAD through casting or direct print to setting, stone-setting, polishing, and hallmarking. Prototype to production volumes from one source."
 icon        = "💎"
-image       = "https://images.unsplash.com/photo-1692593805406-3ee865740c98?w=800&q=80"
+image       = "/images/17_diamond_setting.png"
 
 [[params.services]]
 name        = "CAD Design Service"
 description = "Concept sketch to production-ready CAD file. Parametric models for easy resizing and material variation. Export to STL, STEP, or Rhino format."
 icon        = "✏️"
-image       = "https://images.unsplash.com/photo-1614595737476-42487331b8a1?w=1200&q=80"
+image       = "/images/18_iteration_series.png"
 
 [[params.clusterLinks]]
 name        = "dmls3d.com"
